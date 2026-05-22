@@ -1,0 +1,3 @@
+# This is the Starting point for my first AI coded in python for simple testing of the concept this ai will have its own NeuroNet and include standard...
+# AI libraries as to build a working Prototype
+
